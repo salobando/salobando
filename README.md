@@ -1,9 +1,6 @@
-## Inicio
 <picture>
   <img align="center" src="./img/inicio.png" width="100%">
 </picture>
-
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src="./img/about.gif" width = 50px></picture>About me
 
@@ -11,13 +8,12 @@
   <img align="right" src="./img/trabajando.gif" width="250px">
 </picture>
 
-- 🎓 Desarrolladora de software con formación en **Ingeniería Telemática**, especializada en el desarrollo de aplicaciones y sitios web enfocados en brindar una excelente experiencia de usuario.  
-- 💻 Manejo múltiples lenguajes y tecnologías como **Java, JavaScript, Node.js, PHP, .NET, Python, HTML, CSS y SQL**.  
-- 📊 Experiencia en **visualización y análisis de datos**, aplicados a la toma de decisiones empresariales.  
-- ⚙️ Familiarizada con metodologías ágiles como **SCRUM**.  
-- 🚀 Apasionada por la tecnología y en constante aprendizaje mediante el desarrollo de proyectos informáticos.  
-- 🤝 Destaco por habilidades como **trabajo en equipo, resolución de problemas, adaptabilidad y aprendizaje continuo**.
-
+- 🎓 Soy estudiante de **Ingeniería Telemática**, en la Universida Distrital.
+specializada en 
+- 💻 Desarrollo aplicaciones y sitios web enfocados en brindar una excelente experiencia de usuario.  
+- 📊 Experiencia en **visualización y análisis de datos**  
+- 🚀 Apasionada por la tecnología y en constante aprendizaje.
+🌐 [Mi sitio web](https://cutt.ly/Sofia_Salamanca_Website)
 ---
 
 ## Competitive Programming Profiles
