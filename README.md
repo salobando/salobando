@@ -1,9 +1,14 @@
+## Inicio
+<picture>
+  <img align="center" src="./img/inicio.png" width="100%">
+</picture>
+
 <h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About me
 
 <picture>
-  <img align="right" src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/right.gif" width="250px">
+  <img align="right" src="./img/about.gif" width="250px">
 </picture>
 
 - 🎓 I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
