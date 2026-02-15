@@ -35,9 +35,17 @@ Git • GitHub • JSON • Selenium • MySQL • Django • LaTeX • VS Code 
 ## Connect with me
 
 <p align="center">
-  <a href="salobando2023@gmail.com">Gmail</a> •
-  <a href="https://github.com/salobando">GitHub</a> •
-  <a href="https://wa.me/3008833628">WhatsApp</a> •
-  <a href="www.linkedin.com/in/danna-sofia-salamanca-obando-desarrolladora-fullstack">LinkedIn</a>
+  <a href="salobando2023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="www.linkedin.com/in/danna-sofia-salamanca-obando-desarrolladora-fullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/salobando">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://wa.me/573008833628">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 </p>
 
