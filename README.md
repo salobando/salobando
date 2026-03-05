@@ -9,7 +9,7 @@
 </picture>
 <br><br>
 
-- 🎓 Soy estudiante de **Ingeniería Telemática**, en la Universida Distrital. 
+- 🎓 Soy estudiante de **Ingeniería Telemática**, en la Universidad Distrital. 
 - 💻 Desarrollo aplicaciones y sitios web enfocados en brindar una excelente experiencia de usuario.  
 - 📊 Experiencia en **visualización y análisis de datos**  
 - 🚀 Apasionada por la tecnología y en constante aprendizaje.
@@ -22,30 +22,33 @@
 ## <picture><img src="./img/about.gif" width = 50px></picture>  Skills
 
 ### <picture><img src="./img/skills.gif" width = 50px></picture> Programming Languages
-Java • Python • JavaScript • C • C++ 
+Java • Python • JavaScript • C# • C++ • PHP • SQL
 
 ### <picture><img src="./img/frontend.gif" width = 50px></picture> Frontend
 HTML • CSS • JS • Bootstrap
 
 ### <picture><img src="./img/herramientas.gif" width = 50px></picture> Tools & IDEs
-Git • GitHub • JSON • Selenium • MySQL • Django • LaTeX • VS Code • JetBrains • Eclipse • Atom
+Git • GitHub • Spring Boot • JSON • MySQL • VS Code • Figma • Trello • Jira • Postman • Bizagi • Power Bi
 
 ---
 
 ## Connect with me
 
 <p align="center">
-  <a href="salobando2023@gmail.com">
+  <a href="mailto:salobando2023@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/danna-sofia-salamanca-obando-desarrolladora-fullstack">
+
+  <a href="https://www.linkedin.com/in/danna-sofia-salamanca-obando-desarrolladora-fullstack">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://github.com/salobando">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://wa.me/573008833628">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
